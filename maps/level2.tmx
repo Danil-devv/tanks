@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="tiles/Tileset- ground.tsx"/>
+ <tileset firstgid="105" source="tiles/Ammunition_Icon sand.tsx"/>
+ <tileset firstgid="106" source="tiles/Speed_Bonus sand.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztnEtywyAMQNND9Ztd/1dJ73+AJtNhxkNtLBkJC/MWb5FVJJ6FsQy+O51OdwAAAAAAAAAAAAAAAAAASr6vvAv5ChDvlrgj55HzeOVVyEeQXG4uPhVx57wFyGHNx08HTlJN1LjoxUcP+dR4uASI38rHJfvdskasaiLC9WTlY495y8PDkX145+XhAR9xagIffh6ka0F8tI/h6crDhGd8NKsLSQxngRd82HtYi6HkBR/2HtJc9bIhv6P6kD6DeK2bJP8/ko+13FqsX0tOlvqOR/aRj8e0D+79HDGNYa6PvpTbkX1Mx6Olg7Vro9STP7qPSKSxLuWFD3zgAx8RSPey0n0MH7HAh4zUG5T0BPHh7yH1Ps7OTvBRdtE6LnzM18O0Jkpx5fsp8GHrYa0ne8Nzzhrdh8ZDCyej+cjfoWo95E6s11yj+fDI17JW8BHLSU8+LNYynvlaOOnJR+T6uFF71gAf8eIdzcfS+9Mo8Y7m48a9Q94Wc9WoPjzytooVH3FqY0Qfac083XdSey+xjHM0Hx5jgI84PiznKnz8UTN3WceIj/9upE6sawMf2514uMDHdideseFDNzaacwqcH7Svkfz7O9I5au58lCQffNizdFZN8n6kVx/5XNBi76DEw9o7+TUnPfooXX97eNHuUSk56c2H5Nyq955ObTyaa603H9J4ve89W/dtjerDs0a21sTIPqxqZG7dUOviSOc5NfHW1ohFHSSkzzC9+dB++01TI/m3kizGRtvn6s2Hxkltzy9/Pi/959I3d7X/36OPfKyWxsl6jTXXP7H+1kCvPiTjtOf3GI7uw/ocUhTyvHrxMQr4iEVkH6k/OBJWzzsAAAAAAAAAAAAAAAAAALAvvxNmLdU=
+  </data>
+ </layer>
+ <layer id="2" name="Слой тайлов 2" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKHL9v1DDZZDwVVTVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/AeIWErc=
+  </data>
+ </layer>
+</map>

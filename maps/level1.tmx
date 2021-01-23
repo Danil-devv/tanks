@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="tiles/Ground_Tile_01_C.tsx"/>
+ <tileset firstgid="2" source="tiles/Czech_Hdgehog_A.tsx"/>
+ <tileset firstgid="3" source="tiles/Container_A.tsx"/>
+ <tileset firstgid="67" source="tiles/Container_C.tsx"/>
+ <tileset firstgid="131" source="tiles/Container_D.tsx"/>
+ <tileset firstgid="195" source="tiles/Container_B.tsx"/>
+ <tileset firstgid="259" source="tiles/Tileset- ground.tsx"/>
+ <tileset firstgid="363" source="tiles/Speed_Bonus.tsx"/>
+ <tileset firstgid="364" source="tiles/Ammunition_Icon.tsx"/>
+ <tileset firstgid="365" source="tiles/Decor_Pipe_A_01.tsx"/>
+ <tileset firstgid="381" source="tiles/Decor_Pipe_B.tsx"/>
+ <tileset firstgid="397" source="tiles/Decor_Pipe_C_01.tsx"/>
+ <tileset firstgid="413" source="tiles/Puddle_02.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3Edy1EAYhmGJK5DD2ORkE2/COcwKV8HagbAfwGREzvEq5Jxz5gS8s3CVa0piJFmj/rv1VflZuMYjj/v1SOqW7FYcRa2G4iOV69fVVOphi3rYoh62qIct6mGLetiiHraohy3qYYt62DInSuf6dTVVrPeHKephi3rYouOHLbHeH6aohy1N6DHskazjR9HtuB7zLIPYGWf/3oViKIqSVViKuRgyMPZZPVyPVR2GabAayzBPPZzbRIM1aGG+eji3mQZrMYAF6uHcFhqswyAWqodzW2mwHsuxSD2c20aDDViBxZ732B1HyS4U+fn5+mgUYynGMVHisUm0c7zeNNtpsBErscTzHntoMVqwBw07z4v2ptiH/SUeO4Cpkj26+dyDsUjGCvawTj1sUQ/H4x/Qegn79GTc8x4hrZdwfE0mPD+/Cmm9pMz+ytr5VUjrJSEcP0JaLwmhR0jrJSH0CGm9pKrzq5Ec36tfQlovCeH8aqbO9Wmfe4RwftWtaT2sUw9b1MMWn3uw304m1cNMD46hSVs9zPQIUdN7ZN13m6aO56qH2/l5N/Vw30A91EM91CNvj2474uLStl1mOz73KHN/YlqPmZ+P/Gd86+BzjzL3J/bqEUfqUbZHFetX6uFnj3u4jwd4iEd4jCd4mrHtNg7iEA5jCkdwFMfUY1Y9nuE5XuAlXuE13uBtxraP4wRO4hROI8EZnA2wx2yvn3eO3Xl7vMN7fMBHfMJnfMHXjO2fw3lcwEVcwmVcwdUAe0xfPy+yjpRnbSmtxzd8xw/8xC/8xh/8zXh913AdN3ATt3Abd3A3wB7T+6s6etRFPdSj6h5Vj0m/euT5fxM+9+jX3xvo/VGuR5n74cr20Pyj97jVub/S/KOeHpp/+NlD84/eY1nF/Vdlrkf18xqWzz2quP9KParrUQX1UA/1KDa2mn/Y76H5Rz090mj+Yb+H5h+2etRFPdTDUg9dj1IP9cjfo3MNz1WPzv0uVnt0DDSQ6zEXERERERERERERERERET/9A9xEVj0=
+  </data>
+ </layer>
+ <layer id="2" name="Слой тайлов 2" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qUHy6Hgqqmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv8AX0MnEQ==
+  </data>
+ </layer>
+</map>
