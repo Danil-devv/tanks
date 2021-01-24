@@ -363,7 +363,7 @@ class Enemy(pygame.sprite.Sprite):
         self.angle = 270
         self.speed = 1
         self.hp = 75
-        self.damage = 5
+        self.damage = 10
         self.reload_time = 2500
         self.time_of_the_shot = -1
         self.is_alive = True
